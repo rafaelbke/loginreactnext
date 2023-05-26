@@ -6,6 +6,7 @@ export default function Home() {
   return (
     <div>
       Perfil do usuario
+      <Link href="/cadastro">Ainda não tem cadastro</Link>
     </div>
   )
 }
