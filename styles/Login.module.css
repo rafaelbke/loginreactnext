@@ -1,0 +1,23 @@
+.background {
+    background-color:cornflowerblue;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.background.input{
+    color: brown;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+}
+
+.error{
+    color:gold;
+    font-weight: bold;
+}

@@ -1,0 +1,15 @@
+.input{
+    padding: 15px 30px;
+    border: 0;
+    background-color: dimgray;
+    border-radius: 10px;
+ 
+}
+.input:hover{
+    transition-delay: 500ms;
+    outline:solid 3px rebeccapurple;
+    border-radius: 10px;
+    background-color: grey;
+   
+
+}
